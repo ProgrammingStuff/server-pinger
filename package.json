@@ -1,0 +1,10 @@
+{
+  "name": "server-pinger",
+  "version": "0.0.1",
+  
+  "engines": {
+    "node": "8.2.1"
+  },
+  "dependencies": {
+  },
+}
