@@ -1,5 +1,8 @@
 {
   "name": "server-pinger",
   "description": "pings servers",
-  "version": "0.0.1"
+  "version": "0.0.1",
+  "dependencies": {
+    "http": "1.0"
+  }
 }
