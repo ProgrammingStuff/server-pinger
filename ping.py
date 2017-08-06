@@ -5,5 +5,5 @@ def ping(address):
   os.system("ping -c 1 address")
    
 while True:
-  ping("uhc-server.herokuapp.com")
+  ping("google.com")
   time.sleep(600)
