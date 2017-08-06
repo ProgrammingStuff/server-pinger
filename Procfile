@@ -1,1 +1,1 @@
-worker: node ping.js
+worker: python ping.py
